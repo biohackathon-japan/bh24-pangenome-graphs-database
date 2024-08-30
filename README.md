@@ -17,8 +17,8 @@ YAML code with metadata. It is important to get this part correct, because other
 generation will fail. The metadata looks like this:
 
 ```yaml
-title: 'DBCLS BioHackathon 2024 Report for Project: Genome variation'
-title_short: 'BioHackJP24: Genome variation'
+title: 'DBCLS BioHackathon 2024 Report for Project: Pangenome Graphs Database'
+title_short: 'BioHackJP24: Pangenome Graphs Database'
 tags:
   - Genomics
   - Human genetics
